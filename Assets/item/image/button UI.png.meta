@@ -101,6 +101,18 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -3125,7 +3137,6 @@ TextureImporter:
       button UI_118: -878619874
       button UI_121: -1625882285
       button UI_72: 2001646278
-      button UI_140: 417180434
       button UI_122: -927914716
       button UI_104: -340572033
       button UI_71: -831801866
@@ -3154,18 +3165,18 @@ TextureImporter:
       button UI_97: -340001634
       button UI_89: -1439917628
       button UI_0: -1583767668
-      button UI_23: -1045577319
-      button UI_80: -1088294331
+      button UI_142: 433111092
       button UI_100: -1090386988
+      button UI_23: -1045577319
       button UI_64: -669842445
       button UI_31: 1304649428
       button UI_11: 1918910076
       button UI_119: 2090201971
+      button UI_80: -1088294331
       button UI_101: -1322074853
       button UI_28: -803770071
       button UI_38: -1715016346
       button UI_50: -17006736
-      button UI_142: 433111092
       button UI_134: -162779670
       button UI_99: 199015668
       button UI_37: -107474978
@@ -3248,12 +3259,13 @@ TextureImporter:
       button UI_41: -8273384
       button UI_83: 348857652
       button UI_107: 372505216
+      button UI_140: 417180434
       button UI_6: -335098836
-      button UI_27: 493544395
       button UI_55: 2016250938
-      button UI_111: 644036710
+      button UI_27: 493544395
       button UI_128: -1946260751
       button UI_102: 1183733900
+      button UI_111: 644036710
       button UI_25: -1982770194
       button UI_96: 1351029805
       button UI_135: 151460648
